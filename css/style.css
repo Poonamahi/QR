@@ -1,0 +1,40 @@
+body{
+  font-size: 15px;
+  background-color: #D8E3E7;
+  margin: 0;
+}
+
+h3{
+  color: #142850;
+  font-family: 'Outfit', sans-serif;
+ font-weight: 800;
+ font-style: bold;
+ margin-bottom: 1px;
+ margin-left:20px;
+ margin-right: 20px;
+}
+img
+{
+  margin: 20px 10px 10px;
+  border-radius: 15px;
+
+}
+p{
+  color: #92A9BD;
+margin-left: 30px;
+margin-right: 30px;
+
+}
+.outer{
+  display: table-row;
+  position: absolute;
+  left: 550px;
+  right: 100px;
+  top: 100px;
+border-radius: 20px;
+  background-color: white;
+text-align: center;
+width: 300px;
+height: 460px;
+border: 1px ;
+}
